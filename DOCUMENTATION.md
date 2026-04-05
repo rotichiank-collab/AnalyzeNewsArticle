@@ -133,31 +133,31 @@ TEXT ANALYSIS REPORT: sample_article.txt
 
 ## Design Features
 
-### ✅ Text Analysis Accuracy
+### Text Analysis Accuracy
 
 - Case-insensitive word matching with whole-word boundaries
 - Proper punctuation handling and exclusion
 - Regex patterns for robust text processing
 
-### ✅ Efficiency & Readability
+### Efficiency & Readability
 
 - Modular function design for single responsibility
 - Clear variable names and comprehensive docstrings
 - Efficient algorithms using Python's built-in libraries (re, Counter)
 
-### ✅ Functions & Variables
+### Functions & Variables
 
 - Proper type hints (Optional, float, int, str)
 - Descriptive function names following Python conventions
 - Well-named variables that clearly indicate their purpose
 
-### ✅ Accuracy
+### Accuracy
 
 - Precise word counting with whole-word matching
 - Accurate paragraph detection using empty line separation
 - Reliable sentence counting with proper punctuation detection
 
-### ✅ Best Practices
+### Best Practices
 
 - Follows PEP 8 style guide
 - Comprehensive error handling
@@ -165,7 +165,7 @@ TEXT ANALYSIS REPORT: sample_article.txt
 - Type hints for clarity
 - Main function pattern with `if __name__ == "__main__"`
 
-### ✅ User Experience
+### User Experience
 
 - Interactive CLI with clear prompts
 - Formatted output for easy reading
